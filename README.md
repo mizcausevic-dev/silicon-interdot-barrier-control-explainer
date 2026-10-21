@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/silicon-interdot-barrier-control-explainer/
 
+Repository: https://github.com/mizcausevic-dev/silicon-interdot-barrier-control-explainer
+
 ## What this is
 
 An interactive anatomy plate for Silicon Interdot Barrier Control. Play, scrub, or jump the five stages. The same frame always draws the same picture.
